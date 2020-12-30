@@ -1,0 +1,3 @@
+﻿  curs.cpp
+G:\ИНСТИТУТ\Лабораторные работы\ЛоиОА\curs\curs\curs.cpp(40,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  curs.vcxproj -> G:\ИНСТИТУТ\Лабораторные работы\ЛоиОА\curs\curs\Debug\curs.exe
